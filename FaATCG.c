@@ -1,6 +1,6 @@
 //*****************************************
 // count the number of base in fasta file
-// Longest sequence name 1024
+// Longest sequence name 1023
 //*****************************************
 #include <stdio.h>
 #include <string.h>
